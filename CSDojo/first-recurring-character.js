@@ -10,7 +10,7 @@ const findFirstRecurringCharacter = (givenString) => {
    }
 
    let result = recurringCharacters.charAt(0);
-   return result;
+   return result; 
 }
 
 const myString = 'CBADEFBACCDHD';
